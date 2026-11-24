@@ -170,3 +170,8 @@ See [SECURITY.md](./SECURITY.md) for how to report a vulnerability.
 ## License
 
 [MIT](./LICENSE)
+
+## Handsoff notes
+
+<!-- handsoff-issue-789 -->
+- #789: policy-engine: add a k-of-n combine operator
